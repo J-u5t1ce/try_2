@@ -160,7 +160,7 @@ describe("uniqueId", () => {
     test("returns a unique id even when called within the same millisecond", () => {
         const ids = new Set();
         for (let i = 0; i < 200; i++) ids.add(uniqueId());
-        expect(ids.size).toBeGreaterThanOrEqual(198);
+        expect(ids.size).toBeGreaterThanOrEqual(200);
     });
 
     test("contains a millisecond timestamp prefix", () => {
