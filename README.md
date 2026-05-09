@@ -20,11 +20,11 @@ Coverage target: **80%+ statements / branches / functions / lines** (enforced by
 
 ##  **Features**
 
--  **Dynamic Inventory Tracking:** Real-time updates to your inventory with minimal effort.  
--  **User-Friendly Interface:** Simplified navigation designed for everyone—no coding experience required!  
--  **Customizable Options:** Adapt the app to suit different business or personal needs.  
--  **Responsive Design:** Seamless experience across desktop and mobile devices.  
--  **Fast & Lightweight:** Built with modern JavaScript principles for optimized performance.  
+-  **Dynamic Inventory Tracking:** The application automatically refreshes stock data, allowing users to track inventory changes effortlessly.  
+-  **User-Friendly Interface:** The platform provides simple navigation, perfect for beginners and users with no coding experience.  
+-  **Customizable Options:** Users can tweak built-in settings to fit personal storage or small business inventory needs.  
+-  **Responsive Design:** The layout adapts to all screen sizes for smooth usage on computers and mobile phones.  
+-  **Fast & Lightweight:** Written with vanilla JavaScript, the app runs smoothly without unnecessary dependencies.  
 
 ---
 
