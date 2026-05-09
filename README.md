@@ -1,4 +1,4 @@
-# 📦 **Inventory App JS**
+#  **Inventory App JS**
 
 [![CI](https://github.com/bestbetternow/try_2/actions/workflows/main.yml/badge.svg)](https://github.com/bestbetternow/try_2/actions/workflows/main.yml)
 [![codecov](https://codecov.io/gh/bestbetternow/try_2/branch/main/graph/badge.svg)](https://codecov.io/gh/bestbetternow/try_2)
@@ -18,23 +18,23 @@ Coverage target: **80%+ statements / branches / functions / lines** (enforced by
 
 ---
 
-## ✨ **Features**
+##  **Features**
 
-- 🛠️ **Dynamic Inventory Tracking:** Real-time updates to your inventory with minimal effort.  
-- 😍 **User-Friendly Interface:** Simplified navigation designed for everyone—no coding experience required!  
-- 🛠️ **Customizable Options:** Adapt the app to suit different business or personal needs.  
-- 📱 **Responsive Design:** Seamless experience across desktop and mobile devices.  
-- ⚡ **Fast & Lightweight:** Built with modern JavaScript principles for optimized performance.  
+-  **Dynamic Inventory Tracking:** Real-time updates to your inventory with minimal effort.  
+-  **User-Friendly Interface:** Simplified navigation designed for everyone—no coding experience required!  
+-  **Customizable Options:** Adapt the app to suit different business or personal needs.  
+-  **Responsive Design:** Seamless experience across desktop and mobile devices.  
+-  **Fast & Lightweight:** Built with modern JavaScript principles for optimized performance.  
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
 Check out the live demo [here](https://try-2-rwbw.vercel.app)!
 
 ---
 
-## 🛠️ **Development**
+##  **Development**
 
 Want to contribute? Here's how:
 
@@ -44,19 +44,19 @@ Want to contribute? Here's how:
 
 ---
 
-## 🤝 **Contributors**
+##  **Contributors**
 
 A huge thanks to all contributors for helping make this project awesome! 🙌  
 
 ---
 
-## 📜 **License**
+##  **License**
 
 This project is licensed under the **MIT License**—use it freely, and don't forget to star the repo if you find it helpful! ⭐  
 
 ---
 
-## 🌟 **Stay Connected**
+##  **Stay Connected**
 
 - **Author:** [rhmti01](https://github.com/rhmti01)  
 - **Got Ideas?** Submit an issue or start a discussion—we love hearing from you!
