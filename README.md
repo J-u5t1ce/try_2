@@ -30,7 +30,7 @@ Coverage target: **80%+ statements / branches / functions / lines** (enforced by
 
 ## 🌐 Live Demo
 
-Check out the live demo [here](https://try-2-r4ju.vercel.app)!
+Check out the live demo [here](https://try-2-rwbw.vercel.app)!
 
 ---
 
